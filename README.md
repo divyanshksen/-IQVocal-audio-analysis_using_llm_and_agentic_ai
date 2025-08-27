@@ -27,8 +27,8 @@ RAG Chatbot (Demonstration)	LLM-powered chatbot to answer user queries about his
 
 ## Setup and Installation
 1. Clone the repository.
-git clone https://github.com/rachellg99/VoiceIQ-llm-driven-audio-analysis.git
-cd voiceiq-audio-analyzer
+git clone https://github.com/divyanshksen/VoiceIQ-llm-driven-audio-analysis.git
+cd iqvocal-audio-analyzer
 2. Create a virtual environment (recommended):
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate

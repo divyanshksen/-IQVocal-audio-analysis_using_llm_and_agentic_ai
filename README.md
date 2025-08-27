@@ -1,4 +1,4 @@
-# -VoiceIQ-audio-analysis_using_llm_and_agentic_ai
+# -IQudio-analysis_using_llm_and_agentic_ai
 
 ## Project Overview
 In today's contact centers, thousands of customer service calls occur daily—each rich with insights but trapped in unstructured audio.
